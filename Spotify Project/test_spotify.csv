@@ -1,0 +1,49 @@
+name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+Voice of the Heroes,Voice of the Heroes,Lil Baby,5/31/21,209299,50,0.754,0.173,0.754,0.661,0,0.16,-6.811,0.261,82.988,4
+Solid (feat. Drake),Slime Language 2,Young Stoner Life,4/16/21,215693,86,0.887,0.0392,0.887,0.485,0,0.141,-9.358,0.2,125.987,4
+Never Left,Never Left,Lil Tecca,5/6/21,168727,84,0.807,0.0224,0.807,0.659,0,0.309,-6.92,0.332,82.465,4
+EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),KHALED KHALED,DJ Khaled,4/30/21,236524,83,0.477,0.000866,0.477,0.727,0,0.108,-4.053,0.286,150.062,4
+GANG GANG (with Lil Wayne),GANG GANG (with Lil Wayne),Polo G,5/21/21,178775,82,0.752,0.146,0.752,0.563,0,0.103,-8.066,0.209,145.05,4
+Straightenin,Straightenin,Migos,5/14/21,255532,82,0.847,0.0318,0.847,0.629,0,0.152,-5.81,0.102,135.976,4
+Ramen & OJ,Ramen & OJ,Joyner Lucas,4/30/21,218447,84,0.597,0.492,0.597,0.571,0,0.093,-6.205,0.293,106.196,3
+Wants and Needs (feat. Lil Baby),Scary Hours 2,Drake,3/5/21,192956,89,0.578,0.0618,0.578,0.449,2.17E-06,0.119,-6.349,0.286,136.006,4
+Run It Up (feat. Offset & Moneybagg Yo),Destined 2 Win,Lil Tjay,4/2/21,232048,84,0.88,0.415,0.88,0.575,0,0.109,-6.091,0.163,120.031,4
+p r i d e . i s . t h e . d e v i l (with Lil Baby),The Off-Season,J. Cole,5/14/21,218210,88,0.861,0.104,0.861,0.656,0,0.0986,-7.867,0.425,88.967,4
+RAPSTAR,RAPSTAR,Polo G,4/9/21,165925,95,0.789,0.41,0.789,0.536,0,0.129,-6.862,0.242,81.039,4
+4 Da Gang (with Roddy Ricch),4 Da Gang (with Roddy Ricch),42 Dugg,4/2/21,155720,82,0.871,0.0143,0.871,0.545,0,0.148,-10.489,0.189,100.482,4
+Headshot (feat. Polo G & Fivio Foreign),Headshot,Lil Tjay,3/19/21,144349,64,0.809,0.0758,0.809,0.638,0,0.15,-7.268,0.257,117.982,4
+Wockesha,A Gangsta’s Pain,Moneybagg Yo,4/23/21,180930,79,0.582,0.129,0.582,0.537,0,0.0749,-9.229,0.619,82.103,4
+Ski,Slime Language 2,Young Stoner Life,4/16/21,152333,81,0.953,0.017,0.953,0.621,0,0.0398,-7.638,0.221,123.016,4
+"His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)","His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",Internet Money,5/13/21,224042,81,0.792,0.116,0.792,0.707,0,0.12,-5.218,0.0623,134.997,4
+Final Warning,Final Warning,NLE Choppa,4/30/21,156894,78,0.847,0.0781,0.847,0.912,0,0.142,-3.129,0.257,81.486,4
+Real As It Gets (feat. EST Gee),Real As It Gets (feat. EST Gee),Lil Baby,3/4/21,192804,79,0.779,0.00471,0.779,0.705,0,0.0971,-5.891,0.163,140.005,4
+Company (feat. Future),El Dorado,24kGoldn,3/26/21,213080,79,0.831,0.447,0.831,0.727,0,0.111,-3.657,0.169,125.068,4
+Tampa,Sweet Union,Cico P,10/31/19,176160,80,0.888,0.164,0.888,0.408,0,0.0912,-10.162,0.487,77.029,4
+What You Need,What You Need,Don Toliver,5/4/21,217609,80,0.664,0.059,0.664,0.655,2.40E-05,0.17,-7.327,0.0461,129.987,4
+a m a r i,The Off-Season,J. Cole,5/14/21,148421,87,0.725,0.127,0.725,0.713,0,0.617,-6.173,0.187,65.988,4
+Big Gangsta,Big Gangsta,Kevin Gates,3/26/21,243462,77,0.879,0.519,0.879,0.574,8.76E-06,0.144,-5.602,0.391,144.911,4
+"Switch it Up (feat. G Herbo, No More Heroes)",Shiesty Season - Spring Deluxe,Pooh Shiesty,5/21/21,168648,72,0.443,0.289,0.443,0.731,0,0.207,-4.997,0.255,147.818,4
+Killer (feat. Jack Harlow & Cordae) - Remix,Killer (feat. Jack Harlow & Cordae) [Remix],Eminem,5/28/21,236665,74,0.924,0.0525,0.924,0.73,0,0.113,-6.125,0.274,99.01,4
+What’s Next,Scary Hours 2,Drake,3/5/21,178153,86,0.781,0.0136,0.781,0.594,0,0.162,-6.959,0.0485,129.895,4
+734,Goodbye & Good Riddance (Anniversary Edition),Juice WRLD,5/28/21,196146,75,0.663,0.123,0.663,0.545,0,0.106,-3.93,0.036,78.452,4
+Emergency (feat. Gunna & Young Thug),Spiral: From The Book of Saw Soundtrack,21 Savage,5/14/21,177280,72,0.754,0.073,0.754,0.817,0,0.379,-5.283,0.254,142.783,4
+24 Hours (feat. Lil Durk),24 Hours (feat. Lil Durk),A Boogie Wit da Hoodie,5/21/21,205702,75,0.586,0.334,0.586,0.474,0,0.118,-9.21,0.18,91.105,4
+WHOLE LOTTA MONEY,FOR CERTAIN,BIA,12/11/20,156005,80,0.897,0.0904,0.897,0.371,0,0.325,-5.019,0.368,81.008,4
+Twerkulator,Twerkulator,City Girls,5/21/21,138541,75,0.895,0.0012,0.895,0.469,4.56E-05,0.192,-5.882,0.0661,126.917,4
+Rule #1 (feat. Lil Yachty),Die 4 Respect,DDG,3/19/21,154718,72,0.938,0.0258,0.938,0.355,0,0.118,-7.075,0.413,134.096,4
+Seeing Green (with Drake & Lil Wayne),Beam Me Up Scotty,Nicki Minaj,5/14/21,339506,81,0.573,0.0853,0.573,0.867,0,0.38,-2.876,0.168,74.861,4
+Maybach (feat. Future),Free Dem Boyz,42 Dugg,5/21/21,199093,72,0.506,0.0229,0.506,0.473,0,0.15,-9.79,0.331,100.535,5
+durag activity (with Travis Scott),durag activity (with Travis Scott),Baby Keem,4/30/21,225020,80,0.89,0.00306,0.89,0.701,3.06E-06,0.0895,-5.712,0.342,80.462,4
+BIG PURR (Prrdd) (feat. Pooh Shiesty),BIG PURR (Prrdd),Coi Leray,3/26/21,116760,77,0.774,0.026,0.774,0.412,0,0.088,-8.619,0.378,139.943,4
+Richer (feat. Polo G),SoulFly,Rod Wave,3/26/21,190458,80,0.726,0.438,0.726,0.411,0,0.087,-12.929,0.0671,137.905,3
+9 Bridge,9 Bridge,Rowdy Rebel,5/14/21,147962,70,0.642,0.124,0.642,0.589,0,0.0868,-7.392,0.302,95.543,5
+Fractions,Beam Me Up Scotty,Nicki Minaj,5/14/21,181690,76,0.924,0.011,0.924,0.523,0,0.17,-6.362,0.132,131.892,4
+Yucky Blucky Fruitcake,Oh The Places You’ll Go,Iamdoechii,11/27/20,275520,77,0.597,0.463,0.597,0.617,0,0.66,-7.482,0.282,97.923,4
+Fast (Motion),Fast (Motion),Saweetie,5/7/21,170653,72,0.882,0.156,0.882,0.839,0,0.132,-3.193,0.082,117.032,4
+What’s New,Good News,Megan Thee Stallion,11/20/20,155090,77,0.934,0.00488,0.934,0.873,0,0.0832,-4.707,0.309,139.997,4
+White Teeth,White Teeth,YoungBoy Never Broke Again,5/14/21,174683,71,0.638,0.246,0.638,0.66,0,0.134,-7.115,0.299,157.996,4
+"Track Star (feat. Chris Brown, A Boogie wit da Hoodie & Yung Bleu)","Track Star (feat. Chris Brown, A Boogie wit da Hoodie & Yung Bleu)",Mooski,5/18/21,221054,73,0.551,0.243,0.551,0.438,0,0.0972,-10.297,0.187,130.814,5
+Lay Wit Ya (feat. Duke Deuce),Lay Wit Ya (feat. Duke Deuce),Isaiah Rashad,5/7/21,197386,73,0.925,0.0347,0.925,0.859,1.86E-06,0.2,-7.335,0.196,140.034,4
+Everything Different,Everything Different,Culture Jam,5/28/21,195000,63,0.659,0.123,0.659,0.714,0,0.314,-5.963,0.228,160.007,4
+Body (Remix) - feat. Jack Harlow,Body (Remix) [feat. Jack Harlow],Tion Wayne,5/24/21,168510,64,0.885,0.438,0.885,0.68,6.50E-06,0.0765,-8.928,0.426,141.062,4
+Bath Salts (feat. JAY-Z & Nas),Exodus,DMX,5/28/21,180009,66,0.592,0.0466,0.592,0.682,0,0.648,-7.196,0.264,91.845,4
